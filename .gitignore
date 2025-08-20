@@ -33,3 +33,10 @@ ckpts*
 
 # Demo
 serve_images/
+
+# Experiment outputs
+outputs/
+playground/data/eval/
+backup_*/
+test_save/
+test_scripts_archive/
